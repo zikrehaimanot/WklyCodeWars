@@ -1,1 +1,3 @@
 # WklyCodeWars
+
+week of codewars
